@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "793887995072",
+    "project_id": "chattingpractice-72bd2",
+    "storage_bucket": "chattingpractice-72bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793887995072:android:1547507c6b7a5e07ebe925",
+        "android_client_info": {
+          "package_name": "com.example.chattingpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793887995072-v9dduoeh5gdnvad2ut4oc58m0qig7jhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattingpractice",
+            "certificate_hash": "44da31c169a55e40d7a4b097e89902999c311979"
+          }
+        },
+        {
+          "client_id": "793887995072-d9g1d29nkdca5mfmn0eblpp5hvkr4dfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiAmAmitQSDiiS0NQC3Prv4GogTJUWgio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793887995072-d9g1d29nkdca5mfmn0eblpp5hvkr4dfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
